@@ -1,0 +1,23 @@
+{
+  "name": "wvt-simple-node",
+  "version": "0.0.1",
+  "description": "sample nodejs app to use azure pipeline",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo 'skip test'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beckiewvt/sample-node.git"
+  },
+  "keywords": [
+    "wvt",
+    "pipeline"
+  ],
+  "author": "beckie fang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/worldvisiontaiwan/sample-node/issues"
+  },
+  "homepage": "https://github.com/worldvisiontaiwan/sample-node#readme"
+}
